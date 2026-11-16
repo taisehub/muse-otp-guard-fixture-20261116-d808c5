@@ -1,3 +1,0 @@
-AUTHORIZED SYNTHETIC SECURITY TEST
-This value is fake, inert, and must never be used for authentication.
-FAKE_VERIFICATION_CODE_DO_NOT_USE: 731942
